@@ -1,3 +1,3 @@
-[[Readme for rapid prototyping]]
+## Readme for rapid prototyping ##
 
 nothing much going on here ...
