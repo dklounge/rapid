@@ -1,6 +1,6 @@
 $(document).ready(function() {
   // obtain keys from Parse.com dashboard
-  
+
   var parseApplicationID = "nPohS4DhxXsHWMA9SuoQxFCrzxHJDJngATtJOA52";
   var parseJavaScriptKey="yWzHT4Ix9pfKokjyr59IiBmwP6DovyoIMoCpAEiQ";
 
@@ -13,7 +13,7 @@ $(document).ready(function() {
     success: function(obj) {
       // alternate would be 
       // alert("Parse.com object is saved");
-      console.log("Prase.com object is saved " + obj);
+      console.log("Prase.com object is saved " + obj +" "+ obj.name);
     },
     error: function(obj) {
       console.log("Error has occured! Object not saved " + obj);
