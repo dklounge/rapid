@@ -1,5 +1,6 @@
 $(document).ready(function() {
   // obtain keys from Parse.com dashboard
+  
   var parseApplicationID = "nPohS4DhxXsHWMA9SuoQxFCrzxHJDJngATtJOA52";
   var parseJavaScriptKey="yWzHT4Ix9pfKokjyr59IiBmwP6DovyoIMoCpAEiQ";
 
