@@ -1,0 +1,3 @@
+[[Readme for rapid prototyping]]
+
+nothing much going on here ...
